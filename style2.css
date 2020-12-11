@@ -1,0 +1,18 @@
+.obrazek{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 2px;
+}
+.img{
+   border-radius: 20px;
+   float:left;
+   padding: 4px ;
+}
+.jps{
+    color:#797b7c;
+    padding: 24px;
+    margin-left:2px;
+}
+body{
+    background-image: linear-gradient(rgb(3, 51, 66),cyan)
+}
